@@ -2,6 +2,9 @@
 
 A simple Java console application that simulates a restaurant ordering system with menu display, order taking, promotion handling, and receipt printing.
 
+## Nama : Ade Surya Handika
+## NIM : 058005323
+
 ---
 
 ## How to Run
